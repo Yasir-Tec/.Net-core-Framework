@@ -1,0 +1,17 @@
+﻿@using BOL;
+@{
+    ViewData["Title"] = "Home Page1";
+}
+
+
+@{
+     List<Product> p = (List<Product>)ViewData["products"];
+    foreach(Product item in p)
+    {
+        <p>@item.id  @item.title @item.imageURL @item.category @item.Price</p>
+    
+    } 
+
+ 
+    
+}

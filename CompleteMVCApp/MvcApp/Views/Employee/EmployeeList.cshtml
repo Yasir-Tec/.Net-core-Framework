@@ -1,0 +1,18 @@
+@using BOL;
+
+
+@{
+    ViewData["Title"]="Employee List";
+}
+
+@{
+     List<Employee> empList = (List<Employee>)ViewData["employees"];
+    foreach(Employee item in empList)
+    {
+        <p>@item.id  @item.name @item.email @item.username @item.password</p>
+    
+    } 
+
+ 
+    
+}
