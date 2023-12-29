@@ -7,9 +7,22 @@
 
 @{
      List<Employee> empList = (List<Employee>)ViewData["employees"];
+
+    @Html.ActionLink("Home","Home")
     foreach(Employee item in empList)
     {
-        <p>@item.id  @item.name @item.email @item.username @item.password</p>
+       
+        <br><br>
+
+        <ul>
+            <li>
+        <p>@item.id  @item.name @item.email @item.username  </p> |
+        <a href="/employee/details/@item.id">Details</a> |
+        <a href="/employee/edit/@item.id">Edit</a> |
+        <a href="/employee/delete/@item.id">Delete</a> |
+        </li>
+        </ul>
+     
     
     } 
 

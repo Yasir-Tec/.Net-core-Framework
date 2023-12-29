@@ -1,0 +1,49 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Edit Page";
+}
+<script>
+    function f1()
+    {
+        alert("Details Updated Successfully");
+    }
+</script>
+<a href="/home/login">Login</a>
+<hr/>
+ @if(ViewData["employees"] != null){
+ 
+
+     List<Employee> empList = (List<Employee>)ViewData["employees"];
+
+  
+    foreach(Employee item in empList)
+    {
+        <center>
+         <form method="post">
+     
+
+            <input type="text" name="id" value="@item.id" />
+            <br><br>
+         
+            <input type="text" name="name" value="@item.name" />
+               <br><br>
+    
+            <input type="text" name="email" value="@item.email" />
+               <br><br>
+            <input type="text" name="username" value="@item.username" />
+               <br><br>
+            <input type="text" name="password" value="@item.password" />
+               <br><br>
+          
+     
+           
+            <input type="submit" value="Update" class="submit" onclick="f1()" />
+         </form>
+         </center>
+    }
+    <h2>updates</h2>
+    
+ 
+}
+        
