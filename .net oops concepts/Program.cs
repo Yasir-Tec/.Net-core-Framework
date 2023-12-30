@@ -9,7 +9,7 @@ List<Employee> employees=new List<Employee>();
 employees.Add(e1);
 employees.Add(wg1);
 employees.Add(salese1);
-
+//
 foreach( Employee emp in employees){
    
     Console.WriteLine(emp);
