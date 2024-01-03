@@ -1,0 +1,28 @@
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\bin\Debug\net8.0\MultiThreding.exe
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\bin\Debug\net8.0\MultiThreding.deps.json
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\bin\Debug\net8.0\MultiThreding.runtimeconfig.json
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\bin\Debug\net8.0\MultiThreding.dll
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\bin\Debug\net8.0\MultiThreding.pdb
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.AssemblyInfoInputs.cache
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.AssemblyInfo.cs
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.csproj.CoreCompileInputs.cache
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.dll
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\obj\Debug\net8.0\refint\MultiThreding.dll
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.pdb
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.genruntimeconfig.cache
+C:\Users\IET\Documents\Arjun_Swara\DOT NET\MultiThreding\MultiThreding\obj\Debug\net8.0\ref\MultiThreding.dll
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\bin\Debug\net8.0\MultiThreding.exe
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\bin\Debug\net8.0\MultiThreding.deps.json
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\bin\Debug\net8.0\MultiThreding.runtimeconfig.json
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\bin\Debug\net8.0\MultiThreding.dll
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\bin\Debug\net8.0\MultiThreding.pdb
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.dll
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\obj\Debug\net8.0\refint\MultiThreding.dll
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.pdb
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\obj\Debug\net8.0\MultiThreding.genruntimeconfig.cache
+C:\Users\IET\Desktop\DotNet\MultiThreding\MultiThreding\obj\Debug\net8.0\ref\MultiThreding.dll
